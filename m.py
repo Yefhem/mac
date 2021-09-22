@@ -5,7 +5,7 @@ import subprocess, optparse, re, sys, os, time
 class MacChanger():
 	def __init__(self):
 		os.system('clear')
-		print("  ** MacChanger **  \n")
+		print("  ** MacChanger **  \nsss")
 		
 	def input(self):
 		usage = "usage: %prog [options] -i eth0 -m 00:EE:SS:28:10:98"
